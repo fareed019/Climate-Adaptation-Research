@@ -259,17 +259,15 @@ If you use this research, please cite:
 @article{Ahmad2025ClimateAdaptation,
   author = {Ahmad, Fareed and Chacha, Mwita and Lotachi, Obodo and Badie, Ereny and Alvaro, Aiken},
   title = {The Role of Climate Forecasts in Shaping Adaptation Behaviour: Evidence from a Cross-Country Survey},
-  journal = {Climate and Development},
+  journal = {Institute For Policy Research & Governance},
   year = {2025},
-  volume = {XX},
-  pages = {XX--XX},
-  doi = {10.xxxx/xxxxx}
+  doi = {10.5281/zenodo.19805131}
 }
 ```
 
 Or in plain text:
 
-> Ahmad, F., Chacha, M., Lotachi, O., Badie, E., & Alvaro, A. (2025). The role of climate forecasts in shaping adaptation behaviour: Evidence from a cross-country survey. *Climate and Development*, XX(X), XX-XX.
+> Ahmad, F., Chacha, M., Lotachi, O., Badie, E., & Alvaro, A. (2025). The role of climate forecasts in shaping adaptation behaviour: Evidence from a cross-country survey. *Institute For Policy Research & Governance*, 1(4).
 
 ---
 
