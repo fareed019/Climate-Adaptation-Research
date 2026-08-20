@@ -328,4 +328,4 @@ See METHODOLOGY.md for full references.
 
 **Last Updated:** 2025  
 **Repository Status:** Active  
-**DOI:** [To be assigned upon publication]
+**DOI:** 10.5281/zenodo.19805131
